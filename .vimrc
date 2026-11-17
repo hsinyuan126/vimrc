@@ -11,9 +11,3 @@ set hlsearch
 set incsearch
 set ruler
 set laststatus=2
-
-inoremap " ""<LEFT>
-inoremap ' ''<LEFT>
-inoremap { {}<LEFT>
-inoremap [ []<LEFT>
-inoremap ( ()<LEFT>
