@@ -1,3 +1,4 @@
+syntax on
 set number
 set mouse=a
 set autoindent
@@ -15,3 +16,4 @@ inoremap " ""<LEFT>
 inoremap ' ''<LEFT>
 inoremap { {}<LEFT>
 inoremap [ []<LEFT>
+inoremap ( ()<LEFT>
